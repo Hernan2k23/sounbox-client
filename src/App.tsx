@@ -18,14 +18,6 @@ function App() {
       <LastHero></LastHero>
       <Footer></Footer>
       {/* <Login></Login> */}
-      {/* <div
-        style={{
-          height: "365px",
-          backgroundColor: "gray",
-          backgroundImage:
-            "https://r4.wallpaperflare.com/wallpaper/974/565/254/windows-11-windows-10-minimalism-hd-wallpaper-c876bde870303c5820cce16ed8a244ca.jpg",
-        }}
-      ></div> */}
     </>
   );
 }
