@@ -65,7 +65,7 @@ Error generating stack: `+o.message+`
   cursor: pointer;
   font-weight: bold;
   text-decoration: none;
-`;function Sa(e){return g.jsx(g.Fragment,{children:g.jsx(Lm,{...e,children:e.text})})}const Om="/assets/Logo-901b88ca.svg",Dm=A.nav`
+`;function Sa(e){return g.jsx(g.Fragment,{children:g.jsx(Lm,{...e,children:e.text})})}const Om="/sounbox-client/assets/Logo-901b88ca.svg",Dm=A.nav`
   background: rgba(255, 255, 255, 0);
   /* box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); */
   backdrop-filter: blur(20px);
@@ -118,7 +118,7 @@ Error generating stack: `+o.message+`
   border: ${e=>e.type=="primary"?"none":e.type=="secondary"?"1px solid #f5f5f5 ":"none"};
   border-radius: 20px;
   cursor: pointer;
-`;function ql(e){return g.jsx(g.Fragment,{children:g.jsx(_m,{...e,children:e.text})})}const Vm="/assets/FirstBackground-ad23c8bb.png",Hm=A.section`
+`;function ql(e){return g.jsx(g.Fragment,{children:g.jsx(_m,{...e,children:e.text})})}const Vm="/sounbox-client/assets/FirstBackground-ad23c8bb.png",Hm=A.section`
   width: 100%;
   height: 100vh;
   /* background-color: red; */
@@ -153,7 +153,7 @@ Error generating stack: `+o.message+`
   color: #2dceef;
   display: inline;
   margin-left: 10px;
-`,Gm=()=>g.jsx(Hm,{children:g.jsxs(Wm,{children:[g.jsxs($m,{children:["Open the world of music.",g.jsx("br",{}),"It’s all here."]}),g.jsxs(Qm,{children:[g.jsx(ql,{type:Nr.Primary,text:"MUSICBOX PREMIUM"}),g.jsx(ql,{type:Nr.Secondary,text:"MUSICBOX FREE"})]}),g.jsxs(Ym,{children:["1-month free trial",g.jsx(Km,{children:"$7.99"}),"/month after"]})]})}),Xm="/assets/Phone-b7531ca5.png",Zm="/assets/FLOW-660a9223.svg",qm=A.section`
+`,Gm=()=>g.jsx(Hm,{children:g.jsxs(Wm,{children:[g.jsxs($m,{children:["Open the world of music.",g.jsx("br",{}),"It’s all here."]}),g.jsxs(Qm,{children:[g.jsx(ql,{type:Nr.Primary,text:"MUSICBOX PREMIUM"}),g.jsx(ql,{type:Nr.Secondary,text:"MUSICBOX FREE"})]}),g.jsxs(Ym,{children:["1-month free trial",g.jsx(Km,{children:"$7.99"}),"/month after"]})]})}),Xm="/sounbox-client/assets/Phone-b7531ca5.png",Zm="/sounbox-client/assets/FLOW-660a9223.svg",qm=A.section`
   width: 100%;
   height: 100vh;
   background-color: #161a1a;
@@ -204,7 +204,7 @@ Error generating stack: `+o.message+`
   /* background-color: rebeccapurple; */
   background-image: url(${Zm});
   background-size: cover;
-`,og=()=>g.jsx(qm,{children:g.jsxs(Jm,{children:[g.jsx(ng,{}),g.jsxs(tg,{children:[g.jsxs(bm,{children:[g.jsx(ig,{}),g.jsx(eg,{children:"FLOW"})]}),g.jsxs(rg,{children:["Listen to a personalized mix of tracks based on your",g.jsx("br",{}),"listening history, or create your own mix of genres, artists",g.jsx("br",{}),"and playlists - letting you enjoy more of the music you love."]})]})]})}),lg="/assets/Listen-2362182a.png",ug=A.section`
+`,og=()=>g.jsx(qm,{children:g.jsxs(Jm,{children:[g.jsx(ng,{}),g.jsxs(tg,{children:[g.jsxs(bm,{children:[g.jsx(ig,{}),g.jsx(eg,{children:"FLOW"})]}),g.jsxs(rg,{children:["Listen to a personalized mix of tracks based on your",g.jsx("br",{}),"listening history, or create your own mix of genres, artists",g.jsx("br",{}),"and playlists - letting you enjoy more of the music you love."]})]})]})}),lg="/sounbox-client/assets/Listen-2362182a.png",ug=A.section`
   width: 100%;
   height: 640px;
   background-color: #161a1a;
@@ -226,7 +226,7 @@ Error generating stack: `+o.message+`
   font-size: 36px;
 `,cg=A.span`
   font-size: 20px;
-`,fg=()=>g.jsx(ug,{children:g.jsxs(sg,{children:[g.jsx(ag,{children:"Listen anytime, anywhere"}),g.jsxs(cg,{children:["All your favorite songs and episodes are always available",g.jsx("br",{})," even without WiFi or LTE."]})]})}),dg="/assets/Phone2-afaf3365.png",pg=A.section`
+`,fg=()=>g.jsx(ug,{children:g.jsxs(sg,{children:[g.jsx(ag,{children:"Listen anytime, anywhere"}),g.jsxs(cg,{children:["All your favorite songs and episodes are always available",g.jsx("br",{})," even without WiFi or LTE."]})]})}),dg="/sounbox-client/assets/Phone2-afaf3365.png",pg=A.section`
   width: 100%;
   height: 100vh;
   background-color: #161a1a;
@@ -292,7 +292,7 @@ Error generating stack: `+o.message+`
 `,Ag=A.p`
   font-size: 14px;
   margin: 0;
-`,Pg=e=>g.jsxs(kg,{children:[g.jsx(Cg,{src:e.src}),g.jsx(Eg,{children:e.title}),g.jsx(Ag,{children:e.description})]}),Ng="/assets/Offline-dc3e65a9.svg",jg="/assets/Skips-6f9c1326.svg",zg="/assets/HQ-971eae1f.svg",Rg="/assets/NoADS-2b72cf5e.svg",Tg=A.div`
+`,Pg=e=>g.jsxs(kg,{children:[g.jsx(Cg,{src:e.src}),g.jsx(Eg,{children:e.title}),g.jsx(Ag,{children:e.description})]}),Ng="/sounbox-client/assets/Offline-dc3e65a9.svg",jg="/sounbox-client/assets/Skips-6f9c1326.svg",zg="/sounbox-client/assets/HQ-971eae1f.svg",Rg="/sounbox-client/assets/NoADS-2b72cf5e.svg",Tg=A.div`
   display: flex;
   flex-direction: column;
   height: 430px;
